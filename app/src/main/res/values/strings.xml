@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RecyclerView</string>
+    <string-array name="text_list">
+        <item>wow_0</item>
+        <item>wow_1</item>
+        <item>wow_2</item>
+        <item>wow_3</item>
+        <item>wow_4</item>
+        <item>wow_5</item>
+        <item>wow_6</item>
+        <item>wow_7</item>
+        <item>wow_8</item>
+        <item>wow_9</item>
+        <item>wow_10</item>
+    </string-array>
+</resources>
